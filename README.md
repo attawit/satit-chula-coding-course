@@ -21,9 +21,9 @@ This github respository, is designed for my student
 #### Week#15 Data shown web
 #### Week#16 Vuetify, MDB Bootstrap Vue
 #### Week#17 IOT/ LINE OA
-#### Week#18 Fun Game Project```
+#### Week#18 Fun Game Project
 
 
 ## 💡 Recommend Web Learning:
-html https://www.w3schools.com/html/default.asp
-vuejs https://www.tutorialspoint.com/vuejs/index.htm
+### html https://www.w3schools.com/html/default.asp
+### vuejs https://www.tutorialspoint.com/vuejs/index.htm
