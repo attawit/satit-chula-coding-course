@@ -1,7 +1,7 @@
 ---
 ---
 # `02` Website Structure
-
+```md
 The <!DOCTYPE html> declaration defines that this document is an HTML5 document
 The <html> element is the root element of an HTML page
 The <head> element contains meta information about the HTML page
@@ -10,7 +10,7 @@ The <body> element defines the document's body, and is a container for all the v
 The <h1> element defines a large heading
 The <p> element defines a paragraph
 ## Instructions:
-
+```
 
 1. Add the basic HTML structure for any website (doctype, html, head and body).
 
