@@ -1,9 +1,16 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=XMiG5UhV1n0"
 ---
 # `02` Website Structure
 
-## 📝 Instructions:
+The <!DOCTYPE html> declaration defines that this document is an HTML5 document
+The <html> element is the root element of an HTML page
+The <head> element contains meta information about the HTML page
+The <title> element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab)
+The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
+The <h1> element defines a large heading
+The <p> element defines a paragraph
+## Instructions:
+
 
 1. Add the basic HTML structure for any website (doctype, html, head and body).
 
@@ -28,10 +35,3 @@ tutorial: "https://www.youtube.com/watch?v=XMiG5UhV1n0"
 	</body>
 </html>
 ```
-
-+ You can read about a typical website structure here: [https://4geeks.com/lesson/what-is-html-learn-html#page-structure](https://4geeks.com/lesson/what-is-html-learn-html#page-structure)
-
-## 🔎 Important:
-
-+ The title of the website shows up on the website tab.
-
