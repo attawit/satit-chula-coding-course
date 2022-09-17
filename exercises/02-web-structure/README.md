@@ -18,7 +18,7 @@ The <p> element defines a paragraph
 
 ## 💻 Expected Result:
 
-![Website title example](../../.learn/assets/02-website-structure.png?raw=true)
+![Website learning](https://www.w3schools.com/html/)
 
 ## 💡 Hints:
 
