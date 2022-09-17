@@ -16,9 +16,8 @@ The <p> element defines a paragraph
 
 2. Add "Hello World" inside the title tag for the website.
 
-## 💻 Expected Result:
-
-![Website learning](https://www.w3schools.com/html/)
+more advice:
+https://www.w3schools.com/html/
 
 ## 💡 Hints:
 
