@@ -5,6 +5,7 @@ This github respository, is designed for my student
 
 ## 📝 Weekly Instructions:
 #### Week#1 Internet History, WWW History, Basic HTML, CSS
+##### How the internet work, DNS, 
 #### Week#2 HTML, CSS (style)
 #### Week#3 Java Script, Bootstrap
 #### Week#4 VS Code, Nodejs,
@@ -13,10 +14,10 @@ This github respository, is designed for my student
 #### Week#7 VS Code, node vuejs, 
 #### Week#8 Routing
 #### Week#9 Vuex 1#
-#### Week#10 Vuex 2#
+#### Week#10 Vuex 2# using getter, 
 #### Week#11 Firebase/Firestore
-#### Week#12 Configuration firestore/ firebase package
-#### Week#13 Firestore data query/ read/ write
+#### Week#12 Firestore data query/ read/ write
+#### Week#13 Firestore data real time update
 #### Week#14 Firestore security rule
 #### Week#15 Data shown web
 #### Week#16 Vuetify, MDB Bootstrap Vue
