@@ -10,8 +10,7 @@ How the internet work, DNS,
 Home Work, create HTML file , that file shall include tag <h1> <h2> <p> <img> inside the BODY <body> tag, the source of images/text could get from https://picsum.photos/ or https://loremipsum.io/ 
 Please see hint  of week #1 exercise https://github.com/attawit/satit-chula-coding-course
 ````
-#### Week#2 HTML, CSS (style,responsive)
-#### Week#3 Java Script, Bootstrap
+#### Week#2/3 HTML, CSS (style,responsive),Java Script, Bootstrap
 #### Week#4 VS Code, Nodejs,
 #### Week#5 JSON, XML, Tag
 #### Week#6 Vuejs Basic,
