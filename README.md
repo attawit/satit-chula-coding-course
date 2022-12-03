@@ -11,7 +11,7 @@ Home Work, create HTML file , that file shall include tag <h1> <h2> <p> <img> in
 Please see hint  of week #1 exercise https://github.com/attawit/satit-chula-coding-course
 ````
 #### Week#2/3 HTML, CSS (style,responsive),Java Script, Bootstrap
-#### Week#4 VS Code, Nodejs,
+#### Week#4 Java Script, Nodejs,
 #### Week#5 JSON, XML, Tag
 #### Week#6 Vuejs Basic,
 #### Week#7 VS Code, node vuejs, 
