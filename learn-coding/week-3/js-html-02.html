@@ -29,7 +29,42 @@
         console.log(y.toString());
         console.log(parseInt(w));
         console.log(index);
+        displayAge(9);
+        displayAge(5);
+        console.log(concatString('xxxx','yyyy'));
+        console.log(concatString(8,7));
 
+        const a = 3 ;
+        const b = -2 ; 
+        var bx = true ;
+
+        console.log( !(a > 0 && b >= 3)  );
+        console.log(!bx);
+
+
+        let kx = 3 ; 
+        let ky = ++kx ; 
+
+
+        console.log(++ky,kx);
+        console.log(ky); 
+
+
+        console.log(--ky,kx);
+        console.log(ky);
+        function displayAge(age){
+            if (age > 10){
+                console.log('teenate');
+            } else if (age < 8){
+                console.log('kid');
+            } else if ( age != 9) {
+                console.lg(' < 9')
+            }
+        }
+
+        function concatString(a,b){
+            return a+b ;
+        }
 
         function displayDate() {
             document.getElementById('px').innerHTML = Date();
