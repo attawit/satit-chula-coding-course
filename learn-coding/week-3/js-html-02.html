@@ -10,13 +10,35 @@
 
     <button type="button" onclick="displayDate()">Try it</button>
     <script>
+        let x = 5;
+        var y = 10;
+        const k = 15;
+        let w = '1234x' ; 
+        var parent = { id: 1, obj: "animal ape", age: 15, parent: {} };
+        var obj = { id: 12434, obj: "animal ", age: 15, parent: parent };
+
+        var ary = ['xxx', 'yyy', 'xxxx', 3, obj];
+        var ary2 = [obj, parent];
+
+        console.log(x, y, k * x);
+        console.log(obj);
+        console.log(ary[4].parent);
+
+        const index = ary2.findIndex(x => x.id == 1);
+
+        console.log(y.toString());
+        console.log(parseInt(w));
+        console.log(index);
+
+
         function displayDate() {
             document.getElementById('px').innerHTML = Date();
             document.getElementsByClassName("testclass")[0].style.backgroundColor = "blue";
             document.getElementsByClassName("testclass")[1].style.backgroundColor = "red";
             document.getElementsByTagName('p')[0].innerHTML = "xxxx";
         }
-        
+
+
 
     </script>
 </body>
