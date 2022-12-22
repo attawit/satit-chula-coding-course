@@ -12,7 +12,7 @@ Please see hint  of week #1 exercise https://github.com/attawit/satit-chula-codi
 ````
 #### Week#2/3 HTML, CSS (style,responsive),Java Script, Bootstrap
 #### Week#4 Java Script, Nodejs,
-#### Week#5 JSON, XML, Tag
+#### Week#5 Firebase Hosting setup, JSON, XML, 
 #### Week#6 Vuejs Basic,
 #### Week#7 VS Code, node vuejs, 
 #### Week#8 Routing
