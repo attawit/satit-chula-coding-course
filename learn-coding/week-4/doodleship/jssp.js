@@ -20,17 +20,7 @@ obj.f = function()
 {
     a = parseInt(spaceship.style.left)
     b = parseInt(spaceship.style.top)
-    for(i=0;i<robots.length;i++)
-    {
-        if((parseInt(robots[i].style.left)+5>a && a>parseInt(robots[i].style.left)) || ((a+5>parseInt(robots[i].style.left)) && a<parseInt(robots[i].style.left)) || ((a+5<=parseInt(robots[i].style.left)+5) && a>=parseInt(robots[i].style.left)))
-        {
-            if((parseInt(robots[i].style.top)+5>b) && (b+5>parseInt(robots[i].style.top)))
-            {
-                obj.reset();
-                return;
-            }
-        }
-    }
+   
     k = event.key.toLowerCase();
     if(k == 's')
     {
