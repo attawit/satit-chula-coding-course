@@ -74,6 +74,24 @@ obj.f = function()
     }
     a = parseInt(spaceship.style.left)
     b = parseInt(spaceship.style.top)
+    
+}
+
+
+obj.boxmove  = function (){
+    a = parseInt(spaceship.style.left)
+    b = parseInt(spaceship.style.top)
+    for(i=0;i<robots.length;i++)
+    {
+        if((parseInt(robots[i].style.left)+5>a && a>parseInt(robots[i].style.left)) || ((a+5>parseInt(robots[i].style.left)) && a<parseInt(robots[i].style.left)) || ((a+5<=parseInt(robots[i].style.left)+5) && a>=parseInt(robots[i].style.left)))
+        {
+            if((parseInt(robots[i].style.top)+5>b) && (b+5>parseInt(robots[i].style.top)))
+            {
+                obj.reset();
+                return;
+            }
+        }
+    }
     for(i=0;i<robots.length;i++)
     {
         robots[i].style.top = curr[i]+"vh"
@@ -90,8 +108,8 @@ obj.f = function()
             document.querySelector("#score").innerHTML = parseInt(document.querySelector("#score").innerHTML) + 1;
         }
     }
-}
 
+}
 // main code starts
 document.querySelector("#name").innerHTML =	prompt("Enter your name: ");
 
@@ -116,4 +134,5 @@ for(i=0;i<robots.length;i++)
 
 spaceship = document.querySelector("#player"); //main spaceship
 
+setInterval(obj.boxmove,1000);
 window.addEventListener("keypress",obj.f,false) //keypress event handler
